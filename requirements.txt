@@ -1,0 +1,9 @@
+pillow>=12.3.0
+composio-core
+composio-langchain
+langchain-core
+langchain-groq
+langchain-google-genai
+pydantic
+pandas
+python-dotenv

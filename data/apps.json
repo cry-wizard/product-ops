@@ -1,0 +1,502 @@
+[
+    {
+        "name": "Salesforce",
+        "hint": "salesforce.com",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "HubSpot",
+        "hint": "hubspot.com",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "Pipedrive",
+        "hint": "pipedrive.com",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "Attio",
+        "hint": "attio.com",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "Twenty",
+        "hint": "twenty.com",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "Podio",
+        "hint": "podio.com",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "Zoho CRM",
+        "hint": "zoho.com/crm",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "Close",
+        "hint": "close.com",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "Copper",
+        "hint": "copper.com",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "DealCloud",
+        "hint": "api.docs.dealcloud.com",
+        "category_group": "CRM and Sales"
+    },
+    {
+        "name": "Zendesk",
+        "hint": "zendesk.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "Intercom",
+        "hint": "intercom.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "Freshdesk",
+        "hint": "freshdesk.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "Front",
+        "hint": "front.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "Pylon",
+        "hint": "usepylon.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "LiveAgent",
+        "hint": "liveagent.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "Plain",
+        "hint": "plain.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "Help Scout",
+        "hint": "helpscout.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "Gorgias",
+        "hint": "gorgias.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "Gladly",
+        "hint": "gladly.com",
+        "category_group": "Support and Helpdesk"
+    },
+    {
+        "name": "Slack",
+        "hint": "slack.com",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "Twilio",
+        "hint": "twilio.com",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "Zoho Cliq",
+        "hint": "zoho.com/cliq",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "Lark (Larksuite)",
+        "hint": "open.larksuite.com",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "Pumble",
+        "hint": "pumble.com",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "Discord",
+        "hint": "discord.com",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "Telegram",
+        "hint": "core.telegram.org",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "WhatsApp Business",
+        "hint": "developers.facebook.com/docs/whatsapp",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "Aircall",
+        "hint": "aircall.io",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "Vonage",
+        "hint": "developer.vonage.com",
+        "category_group": "Communications and Messaging"
+    },
+    {
+        "name": "Google Ads",
+        "hint": "developers.google.com/google-ads",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "Meta Ads",
+        "hint": "developers.facebook.com/docs/marketing-apis",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "LinkedIn Ads",
+        "hint": "learn.microsoft.com/linkedin/marketing",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "GoHighLevel",
+        "hint": "highlevel.stoplight.io",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "Mailchimp",
+        "hint": "mailchimp.com/developer",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "Klaviyo",
+        "hint": "developers.klaviyo.com",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "systeme.io",
+        "hint": "systeme.io",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "Pinterest",
+        "hint": "developers.pinterest.com",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "Threads (Meta)",
+        "hint": "developers.facebook.com/docs/threads",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "SendGrid",
+        "hint": "sendgrid.com",
+        "category_group": "Marketing, Ads, Email and Social"
+    },
+    {
+        "name": "Shopify",
+        "hint": "shopify.dev",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "WooCommerce",
+        "hint": "woocommerce.com/document/woocommerce-rest-api",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "BigCommerce",
+        "hint": "developer.bigcommerce.com",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "Salesforce Commerce Cloud",
+        "hint": "developer.salesforce.com/docs/commerce",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "Magento (Adobe Commerce)",
+        "hint": "developer.adobe.com/commerce",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "Squarespace",
+        "hint": "developers.squarespace.com",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "Ecwid",
+        "hint": "api-docs.ecwid.com",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "Gumroad",
+        "hint": "gumroad.com/api",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "Amazon Selling Partner",
+        "hint": "developer-docs.amazon.com/sp-api",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "Fanbasis",
+        "hint": "fanbasis.com",
+        "category_group": "Ecommerce"
+    },
+    {
+        "name": "DataForSEO",
+        "hint": "docs.dataforseo.com",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "SE Ranking",
+        "hint": "seranking.com/api",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "Ahrefs",
+        "hint": "ahrefs.com/api",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "MrScraper",
+        "hint": "docs.mrscraper.com",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "Apify",
+        "hint": "docs.apify.com",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "Firecrawl",
+        "hint": "firecrawl.dev",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "Bright Data",
+        "hint": "brightdata.com",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "Sherlock",
+        "hint": "github.com/sherlock-project/sherlock",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "Waterfall.io",
+        "hint": "waterfall.io",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "Clay",
+        "hint": "clay.com",
+        "category_group": "Data, SEO and Scraping"
+    },
+    {
+        "name": "GitHub",
+        "hint": "docs.github.com/rest",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "Vercel",
+        "hint": "vercel.com/docs/rest-api",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "Netlify",
+        "hint": "docs.netlify.com/api",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "Cloudflare",
+        "hint": "developers.cloudflare.com/api",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "Supabase",
+        "hint": "supabase.com/docs",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "Neo4j",
+        "hint": "neo4j.com/docs/api",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "Snowflake",
+        "hint": "docs.snowflake.com",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "MongoDB Atlas",
+        "hint": "mongodb.com/docs/atlas/api",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "Datadog",
+        "hint": "docs.datadoghq.com/api",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "Sentry",
+        "hint": "docs.sentry.io/api",
+        "category_group": "Developer, Infra and Data platforms"
+    },
+    {
+        "name": "Notion",
+        "hint": "developers.notion.com",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "Airtable",
+        "hint": "airtable.com/developers",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "Linear",
+        "hint": "developers.linear.app",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "Jira",
+        "hint": "developer.atlassian.com",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "Asana",
+        "hint": "developers.asana.com",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "Monday.com",
+        "hint": "developer.monday.com",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "ClickUp",
+        "hint": "clickup.com/api",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "Coda",
+        "hint": "coda.io/developers",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "Smartsheet",
+        "hint": "smartsheet.com/developers",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "Harvest",
+        "hint": "help.getharvest.com/api-v2",
+        "category_group": "Productivity and Project Management"
+    },
+    {
+        "name": "Stripe",
+        "hint": "stripe.com/docs/api",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "Plaid",
+        "hint": "plaid.com/docs",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "Binance",
+        "hint": "binance-docs.github.io",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "Paygent Connect",
+        "hint": "paygent",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "iPayX",
+        "hint": "ipayx.ai/docs",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "QuickBooks",
+        "hint": "developer.intuit.com",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "Xero",
+        "hint": "developer.xero.com",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "Brex",
+        "hint": "developer.brex.com",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "Ramp",
+        "hint": "docs.ramp.com",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "PitchBook",
+        "hint": "pitchbook.com",
+        "category_group": "Finance and Fintech"
+    },
+    {
+        "name": "NotebookLM",
+        "hint": "cloud.google.com/gemini",
+        "category_group": "AI, Research and Media-native"
+    },
+    {
+        "name": "Otter AI",
+        "hint": "help.otter.ai",
+        "category_group": "AI, Research and Media-native"
+    },
+    {
+        "name": "Fathom",
+        "hint": "fathom.video",
+        "category_group": "AI, Research and Media-native"
+    },
+    {
+        "name": "Consensus",
+        "hint": "consensus.app",
+        "category_group": "AI, Research and Media-native"
+    },
+    {
+        "name": "Reducto",
+        "hint": "reducto.ai",
+        "category_group": "AI, Research and Media-native"
+    },
+    {
+        "name": "Devin",
+        "hint": "docs.devin.ai",
+        "category_group": "AI, Research and Media-native"
+    },
+    {
+        "name": "Higgsfield",
+        "hint": "higgsfield.ai/cli",
+        "category_group": "AI, Research and Media-native"
+    },
+    {
+        "name": "Mermaid CLI",
+        "hint": "github.com/mermaid-js/mermaid-cli",
+        "category_group": "AI, Research and Media-native"
+    },
+    {
+        "name": "YouTube Transcript",
+        "hint": "transcriptapi.com",
+        "category_group": "AI, Research and Media-native"
+    },
+    {
+        "name": "Grain",
+        "hint": "grain.com",
+        "category_group": "AI, Research and Media-native"
+    }
+]
